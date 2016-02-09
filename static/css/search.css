@@ -1,0 +1,21 @@
+/*
+    Document   : angular2-quickstart/static/css/search.css
+    Created on : 2016-02-08 06:59 PM
+    Author     : niravshah
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+ root {
+    display: block;
+}
+header {
+    padding-left:20px;
+    padding-right:20px;
+}
+#top-area {
+    height:75px;
+}
+#main {
+    padding-bottom:0px;
+}

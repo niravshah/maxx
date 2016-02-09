@@ -1,0 +1,5 @@
+<div class="row">
+    <div *ngFor="#searchItem of searchService.results" class="col-lg-4 col-md-4 col-sm-4 add_bottom_30 box result">
+        <search-list-item [searchItem]="searchItem"></search-list-item>
+    </div>
+</div>
